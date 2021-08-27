@@ -20,7 +20,7 @@ class FirstUI extends StatelessWidget {
           color: Colors.amber[800],
         ),
       ),
-      // floatingActionButtonLocation: FloatingActionButtonLocation.centerFloat,
+      floatingActionButtonLocation: FloatingActionButtonLocation.centerFloat,
       body: Center(
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
